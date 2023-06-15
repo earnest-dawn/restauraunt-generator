@@ -1,0 +1,2 @@
+# restauraunt-generator
+generate restauraunts 
